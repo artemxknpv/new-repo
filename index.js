@@ -1,3 +1,1 @@
-function validator() {
-  console.log('Validate');
-}
+function ss() {}
