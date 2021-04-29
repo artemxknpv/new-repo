@@ -1,3 +1,4 @@
 function validator() {
-  console.log('Validate');
+  console.log('Validate Ahahahahah');
+  console.log('Ahahahahahahhahah');
 }
